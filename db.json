@@ -1,6 +1,7 @@
 {
     "result": {
         "content": [{
+				"id": 1,
                 "classificationCode": "4126",
                 "classificationDescription": "JABON DE TOCADOR",
                 "articleCode": "918710",
@@ -17,7 +18,8 @@
                 "quantity": 67,
                 "expirationDate": 1582779600000
             }, {
-			"classificationCode": "4126",
+				"id": 2,
+				"classificationCode": "4126",
                 "classificationDescription": "JABON DE TOCADOR",
                 "articleCode": "918710",
                 "barcode": "7862110201684",
@@ -33,7 +35,8 @@
                 "quantity": 22,
                 "expirationDate": 1584939600000
             }, {
-			"classificationCode": "4126",
+				"id": 3,
+				"classificationCode": "4126",
                 "classificationDescription": "JABON DE TOCADOR",
                 "articleCode": "918710",
                 "barcode": "7862110201684",
@@ -48,39 +51,7 @@
                 "className": "MERCANCIA RESURTIBLE",
                 "quantity": 5,
                 "expirationDate": 1645938000000
-            }, {
-			"classificationCode": "4126",
-                "classificationDescription": "JABON DE TOCADOR",
-                "articleCode": "918710",
-                "barcode": "7862110201684",
-                "articleDescription": "VAPORAL GEL ANTIBACTERIAL 259 ml",
-                "articleClassCode": "R",
-                "referenceMeasure": "250 ml",
-                "handlingUnitValue": 12,
-                "lifeTimeCode": 5,
-                "valueTypeControlCost": "2",
-                "verfyExpirationDate": "1",
-                "companyCode": 1,
-                "className": "MERCANCIA RESURTIBLE",
-                "quantity": 4,
-                "expirationDate": 1672549200000
-            }, {
-			"classificationCode": "4126",
-                "classificationDescription": "JABON DE TOCADOR",
-                "articleCode": "918710",
-                "barcode": "7862110201684",
-                "articleDescription": "VAPORAL GEL ANTIBACTERIAL 259 ml",
-                "articleClassCode": "R",
-                "referenceMeasure": "250 ml",
-                "handlingUnitValue": 12,
-                "lifeTimeCode": 5,
-                "valueTypeControlCost": "2",
-                "verfyExpirationDate": "1",
-                "companyCode": 1,
-                "className": "MERCANCIA RESURTIBLE",
-                "quantity": 8,
-                "expirationDate": 1727067600000
-            }
+            } 
         ]
     }
 }
